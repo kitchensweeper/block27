@@ -1,7 +1,7 @@
 # React + Vite
 
 Deploy link:
-https://reactform-block27.netlify.app/
+https://reactformstudy-block27.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
