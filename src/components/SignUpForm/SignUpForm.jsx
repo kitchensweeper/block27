@@ -50,6 +50,8 @@ function SignUpForm({ setToken, setUserInfo }) {
             onChange={(e) => setPassword(e.target.value)}
           />
         </label>
+        <br />
+        <br />
         <button style={{ display: "block" }}>Submit</button>
       </form>
     </>

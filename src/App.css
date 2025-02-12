@@ -1,0 +1,13 @@
+.container {
+  background-color: rgb(255, 234, 210);
+  box-shadow: 0 0 5px black;
+
+  display: inline-block;
+  justify-content: space-around;
+  border-radius: 2%;
+  padding: 20px;
+}
+
+h2 {
+  color: rgb(0, 0, 94);
+}

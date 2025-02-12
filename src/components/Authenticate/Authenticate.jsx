@@ -31,7 +31,7 @@ function Authenticate({ token, userInfo }) {
     <div>
       <h2>Authenticate</h2>
       {error && <p>{error}, please try again...</p>}
-      {success && <p>Authenticated successfully!{userInfo}</p>}
+      {success && <p>Authenticated successfully! <br/>Logged in as: userInfo</p>}
       <button onClick={handleClick}>Authenticate Here</button>
     </div>
   );
